@@ -5,7 +5,7 @@ import Button from './src/button/Button';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text style={styles.text}>Kocham Polonie</Text>
+      <Text style={styles.text}>12432432423423</Text>
       <Button />
       <StatusBar style="auto" />
     </View>

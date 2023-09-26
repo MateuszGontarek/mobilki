@@ -29,7 +29,19 @@ var styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
   },
-  btnDefault: {
+  btnNormal: {
+    borderColor: 'blue',
+    backgroundColor: 'blue',
+    borderRadius: 5,
+    borderWidth: 1,
+    height: 30,
+    width: 100,
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  btnPress: {
+    borderColor: 'red',
+    backgroundColor: 'red',
     borderRadius: 5,
     borderWidth: 1,
     height: 30,
@@ -37,12 +49,4 @@ var styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
   },
-  btnNormal: {
-    borderColor: 'blue',
-    backgroundColor: 'blue',
-  },
-  btnPress: {
-    borderColor: 'red',
-    backgroundColor: 'blue',
-  }
 });
