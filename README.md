@@ -1,6 +1,7 @@
 # mobilki
 
 Funkcje:
+
   -- Połączenie z API NBP
   
   -- wyświetlanie na głównej kursy walut euro, dolar itp.
